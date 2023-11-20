@@ -6,6 +6,6 @@ let passportMarried = {
         city: "Bobryisk"
     }
 };
-
+console.log(passportMarried);
 passportMarried.married = true;
 console.log(passportMarried);
