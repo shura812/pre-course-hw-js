@@ -7,4 +7,3 @@ const findWord = (word) => {
     }
 };
 console.log(findWord("апельсин"));
-console.log(findWord("orange"));
