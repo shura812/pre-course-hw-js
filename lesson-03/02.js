@@ -6,4 +6,4 @@ const findWord = (word) => {
         console.log("Придестя поискать в другом магазине...");
     }
 };
-
+console.log(findWord("апельсин"));
