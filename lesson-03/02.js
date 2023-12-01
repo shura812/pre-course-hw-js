@@ -16,3 +16,4 @@ const findWord = (word) => {
     }
 };
 findWord('апельсин');
+findWord('картошка');
